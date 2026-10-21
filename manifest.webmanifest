@@ -1,0 +1,32 @@
+{
+  "name": "RandomTimer - Interval Boxing Timer",
+  "short_name": "RandomTimer",
+  "description": "Interval training timer for boxing/kickboxing with random voice signals.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e1e24",
+  "theme_color": "#1e1e24",
+  "lang": "bg",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
